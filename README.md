@@ -1,6 +1,6 @@
 ### Hi there
 
-I am Michael King-Stockton a front end developer learning full stack development with Node JS, MongoDB, Postgres, I write in HTML, CSS, JS, Material UI, SASS, React, Next JS and several other web development technologies. I am a passionate and self-motivated individual, enthusiastically keen to learn and explore. I am Open up to opportunities and new learning experiences as i seek to keep developing my knowledge base and experience.
+I am Michael King-Stockton a front end developer learning full stack development with Node JS, MongoDB, Postgres, I write in HTML, CSS, JS, Material UI, SASS, React, Typescript, Next JS and several other web development technologies. I am a passionate and self-motivated individual, enthusiastically keen to learn and explore. I am Open up to opportunities and new learning experiences as i seek to keep developing my knowledge base and experience.
 
 - 🌱 I love React but i am a Javascript guy 🤣
 - 🥅 Goals: Build more projects
