@@ -2,9 +2,9 @@
 
 I'm Michael King-Stockton, a Full Stack Developer with a strong passion for programming. My experience spans a wide range of technologies including HTML, CSS, JavaScript, Material UI, SASS, React, Typescript, Next JS, Redux, Deck GL,Recoil, and Docker. I am Eager to learn and I thrive on new challenges and opportunities to enhance my knowledge and skills. You may find some of my projects using some of the code mentioned above while others may be from Work.
 
-🌱 Recently been learning Next JS and I love it.
-🥅 Goals: Change the world one key at a time.
-⚡ Fun fact: I'm also into reading, mentoring, learning, and cycling.
+- 🌱 Recently been learning Next JS and I love it.
+- 🥅 Goals: Change the world one key at a time.
+- ⚡ Fun fact: I'm also into reading, mentoring, learning, and cycling.
 
 ### Connect with me:
 
